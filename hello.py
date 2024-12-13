@@ -1,20 +1,20 @@
 # print("hello world")
-# -----------
+# ----------------------
 # res = 10 + 20
 # print(res)
 
-# --------------
+# -----------------------
 # a = 10 
 # b = 20
 # res = a + b 
 # print(res)
 # print("id:" , id(res))
 # print("type:", type(res))
-#----------------------
+#-------------------------
 """
 this is a block comment
 """
-# -----------------------
+# --------------------------
 # sample_str = "this is string"
 # print(dir(sample_str))
 
@@ -47,9 +47,10 @@ this is a block comment
 # print(a ** b) # exponentiation
 
 # 1234 = 10
-
+#----------------------------------------
 sample_str = "this is a string"
 sample_str[0] = 'T'
 # TypeError: 'str' object does not support item assignment
 
 print(sample_str)
+
